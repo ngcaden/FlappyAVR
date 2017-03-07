@@ -25,7 +25,7 @@ The table below details the hardware components required to build the circuit.
 | ATmega128 JTAG interface        |                   | 1       |
 
 The oscilloscope should be set to X-Y mode with medium-high intensity. Channels' settings are 0.2V/div. Adjust the default position of the cursor to top right of the screen. Blanking Input port can be found at the back of the oscilloscope. The electronic circuit diagram is detailed below.
-![Electronic circuit design](Circuit-Design.pdf)
+![Electronic circuit design](Circuit_Design.JPEG)
 
 ## Installation Instructions
 1. Download and install [ATMEL Studio 7.0](http://www.atmel.com/tools/atmelstudio.aspx)
