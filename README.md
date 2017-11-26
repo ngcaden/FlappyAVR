@@ -1,4 +1,4 @@
-# Flappy Bird for ATmega128 Microcontroller
+# Flappy Bird Game for ATmega128 Microcontroller
 This project ports the Flappy Bird game to a microcontroller system. The game's graphics are handled by an oscilloscope, and the game's input is handled by a lighted arcade button. The microcontroller used was the Atmel ATmega128. Below are some pictures of the completed system and you can watch a video of gameplay on YouTube [here](https://youtu.be/5vsGyt09EX8).
 
 <img src="Standby_Screen.JPG" alt="Game Standby Screen" width="300"></img>
